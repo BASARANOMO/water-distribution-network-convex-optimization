@@ -1,9 +1,9 @@
 # Convex optimization project: water distribution network
-> Professor: Pierre Carpentier
-
-> Applied Mathematics Unity
- 
-> ENSTA ParisTech
+> Professor: Pierre Carpentier  
+>
+> Applied Mathematics Unity  
+>  
+> ENSTA ParisTech  
 
 ## Author
 ZHANG Mofan
